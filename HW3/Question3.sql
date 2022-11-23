@@ -1,0 +1,1 @@
+SELECT title FROM film where title  ilike 't%t%t%t' OR title ilike '%t%t%t%t'

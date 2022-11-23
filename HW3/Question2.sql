@@ -1,0 +1,1 @@
+SELECT country FROM country where country  like '_____%n'
