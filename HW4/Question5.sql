@@ -1,0 +1,1 @@
+SELECT COUNT  (DISTINCT city) FROM city WHERE city ILIKE '%R'
